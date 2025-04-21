@@ -1,0 +1,22 @@
+{
+  "name": "excuse-generator-javascript-cli",
+  "version": "1.0.0",
+  "description": "<!--hide-->\r # The Excuse Generator CLI (in Javascript)\r <!--endhide-->",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/breatheco-de/excuse-generator-javascript-cli.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/breatheco-de/excuse-generator-javascript-cli/issues"
+  },
+  "homepage": "https://github.com/breatheco-de/excuse-generator-javascript-cli#readme"
+}
